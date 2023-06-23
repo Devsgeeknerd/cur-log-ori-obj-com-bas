@@ -5,7 +5,7 @@
 
 * [ ] [Introdução.](https://github.com/Devsgeeknerd/mod-int-log-ori-obj-com-bas) &#128679;
 * [ ] [Preparação do Ambiente.](https://github.com/Devsgeeknerd/mod-pre-amb-log-ori-obj-com-bas) &#128679;
-* [ ] [Entendendo Melhor o Que é a Orientação a Objetos.](https://github.com/Devsgeeknerd/mod-ent-mel-que-ori-obj-log-ori-obj-com-bas) &#128679;
+* [x] [Entendendo Melhor o Que é a Orientação a Objetos.](https://github.com/Devsgeeknerd/mod-ent-mel-que-ori-obj-log-ori-obj-com-bas)
 * [ ] [Classes e Objetos.](https://github.com/Devsgeeknerd/mod-cla-obj-log-ori-obj-com-bas) &#128679;
 * [ ] [Encapsulamento.](https://github.com/Devsgeeknerd/mod-enc-log-ori-obj-com-bas) &#128679;
 * [ ] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-ori-obj-com-bas) &#128679;
