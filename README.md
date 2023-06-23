@@ -11,7 +11,7 @@
 * [ ] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-ori-obj-com-bas) &#128679;
 * [ ] [Herança.](https://github.com/Devsgeeknerd/mod-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Interfaces.](https://github.com/Devsgeeknerd/mod-int-log-ori-obj-com-bas) &#128679;
-* [ ] [Composição, Agregação e Cardinalidade.](https://github.com/Devsgeeknerd/mod-com-agr-car-log-ori-obj-com-bas) &#128679;
+* [x] [Composição, Agregação e Cardinalidade.](https://github.com/Devsgeeknerd/mod-com-agr-car-log-ori-obj-com-bas)
 * [ ] [Hora de Praticar 2.](https://github.com/Devsgeeknerd/mod-hor-pra-2-log-ori-obj-com-bas) &#128679;
 
 A maioria das linguagens modernas são fundamentadas em um ideal (**também chamado paradigma**) de codificação que possibilita a escrita de um código mais `humano`, de manutenção mais fácil e que também possibilite um alto nível de reaproveitamento de código, o que certamente nos dá maior velocidade no processo de desenvolvimento.
