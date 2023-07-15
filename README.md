@@ -4,7 +4,7 @@
 ***Conteúdo do Curso:***
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/mod-intr-log-ori-obj-com-bas)
-* [ ] [Preparação do Ambiente.](https://github.com/Devsgeeknerd/mod-pre-amb-log-ori-obj-com-bas) &#128679;
+* [x] [Preparação do Ambiente.](https://github.com/Devsgeeknerd/mod-pre-amb-log-ori-obj-com-bas)
 * [x] [Entendendo Melhor o Que é a Orientação a Objetos.](https://github.com/Devsgeeknerd/mod-ent-mel-que-ori-obj-log-ori-obj-com-bas)
 * [x] [Classes e Objetos.](https://github.com/Devsgeeknerd/mod-cla-obj-log-ori-obj-com-bas)
 * [x] [Encapsulamento.](https://github.com/Devsgeeknerd/mod-enc-log-ori-obj-com-bas)
