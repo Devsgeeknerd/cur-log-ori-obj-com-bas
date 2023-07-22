@@ -8,7 +8,7 @@
 * [x] [Entendendo Melhor o Que é a Orientação a Objetos.](https://github.com/Devsgeeknerd/mod-ent-mel-que-ori-obj-log-ori-obj-com-bas)
 * [x] [Classes e Objetos.](https://github.com/Devsgeeknerd/mod-cla-obj-log-ori-obj-com-bas)
 * [x] [Encapsulamento.](https://github.com/Devsgeeknerd/mod-enc-log-ori-obj-com-bas)
-* [ ] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-ori-obj-com-bas) &#128679;
+* [x] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-ori-obj-com-bas)
 * [ ] [Herança.](https://github.com/Devsgeeknerd/mod-her-log-ori-obj-com-bas) &#128679;
 * [ ] [Interfaces.](https://github.com/Devsgeeknerd/mod-int-log-ori-obj-com-bas) &#128679;
 * [x] [Composição, Agregação e Cardinalidade.](https://github.com/Devsgeeknerd/mod-com-agr-car-log-ori-obj-com-bas)
