@@ -9,7 +9,7 @@
 * [x] [Classes e Objetos.](https://github.com/Devsgeeknerd/mod-cla-obj-log-ori-obj-com-bas)
 * [x] [Encapsulamento.](https://github.com/Devsgeeknerd/mod-enc-log-ori-obj-com-bas)
 * [x] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-ori-obj-com-bas)
-* [ ] [Herança.](https://github.com/Devsgeeknerd/mod-her-log-ori-obj-com-bas) &#128679;
+* [x] [Herança.](https://github.com/Devsgeeknerd/mod-her-log-ori-obj-com-bas)
 * [x] [Interfaces.](https://github.com/Devsgeeknerd/mod-int-log-ori-obj-com-bas)
 * [x] [Composição, Agregação e Cardinalidade.](https://github.com/Devsgeeknerd/mod-com-agr-car-log-ori-obj-com-bas)
 * [x] [Hora de Praticar 2.](https://github.com/Devsgeeknerd/mod-hor-pra-2-log-ori-obj-com-bas)
